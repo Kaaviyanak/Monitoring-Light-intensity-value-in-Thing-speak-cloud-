@@ -1,7 +1,7 @@
 # Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
-# NAME:K.Dilli Babu
-# REG NO:24900561
+# NAME:K.KAAVIYAN
+# REG NO:24006507
 
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
